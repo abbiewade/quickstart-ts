@@ -1,5 +1,4 @@
 {
-  "name": "quickstart-ts",
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "build": "tsc",
