@@ -4,6 +4,7 @@
     "dev": "tsx watch src/index.ts",
     "build": "tsc",
     "test": "vitest",
+    "test:run": "vitest run",
     "test:coverage": "vitest run --coverage",
     "lint": "eslint src",
     "lint:fix": "eslint src --ext .ts --fix",
